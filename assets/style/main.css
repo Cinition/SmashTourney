@@ -1,0 +1,23 @@
+:root {
+	--Primary: #CBAC57;
+	--Secondary: #222222;
+	--Tertiary: #222222;
+	--Shade: #0F0F0F;
+	--Blank: #FFFFFF;
+	--Background: #222222;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+.quicksand {
+	font-family: Quicksand, sans-serif;
+}
+
+.montserrat {
+	font-family: Montserrat, sans-serif;
+}
